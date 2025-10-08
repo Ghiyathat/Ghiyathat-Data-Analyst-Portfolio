@@ -17,3 +17,6 @@ Together, they tell one story:
 Data is more than numbers; it’s the pulse of public health.
 
 Thank you for reading through to the end — below are my featured projects.
+
+## Projects
+**SQL**: [Diabetes Epidemiology and Prevalence Analysis](https://github.com/Ghiyathat/diabetes-epidemiology-sql)
