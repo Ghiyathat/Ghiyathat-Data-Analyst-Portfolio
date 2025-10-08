@@ -21,4 +21,5 @@ Thank you for reading through to the end — below are my featured projects.
 ## Projects
 - **SQL**: [Diabetes Epidemiology and Prevalence Analysis](https://github.com/Ghiyathat/diabetes-epidemiology-sql)
 - **Python**: [Human Vital Signs Visualization with Seaborn](https://github.com/Ghiyathat/Seaborn-Human-Vital-Signs-Visualization)
+- **PowerBI**: [Healthcare Performance Dashboard](https://github.com/Ghiyathat/Healthcare-Performance-Dashboard)
 - 
