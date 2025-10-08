@@ -19,4 +19,6 @@ Data is more than numbers; it’s the pulse of public health.
 Thank you for reading through to the end — below are my featured projects.
 
 ## Projects
-**SQL**: [Diabetes Epidemiology and Prevalence Analysis](https://github.com/Ghiyathat/diabetes-epidemiology-sql)
+- **SQL**: [Diabetes Epidemiology and Prevalence Analysis](https://github.com/Ghiyathat/diabetes-epidemiology-sql)
+- **Python**: [Human Vital Signs Visualization with Seaborn](https://github.com/Ghiyathat/Seaborn-Human-Vital-Signs-Visualization)
+- 
