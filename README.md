@@ -24,4 +24,5 @@ Thank you for reading through to the end — below are my featured projects.
 - **Python & PowerQuery**: [Messy Patient Data Cleaning](https://github.com/Ghiyathat/patient-data-cleaning-portfolio)
 - **PowerBI**: [Healthcare Performance Dashboard](https://github.com/Ghiyathat/Healthcare-Performance-Dashboard)
 - **Python**: [Weather Sensor Data Analysis](https://github.com/Ghiyathat/Weather-Sensor-Analysis)
+- **Python**: [Patient Monitoring System with Numpy](https://github.com/Ghiyathat/Weather-Sensor-Analysis)
 - 
