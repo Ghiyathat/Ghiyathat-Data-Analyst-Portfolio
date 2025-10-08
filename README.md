@@ -14,9 +14,6 @@ I’ve worked across tools like Power BI, SQL, Python, and Excel, analyzing dise
 
 These projects were carefully chosen to reflect real-world challenges — understanding patients, evaluating providers, and driving efficiency through data.
 
-Together, they tell one story:
-Data is more than numbers; it’s the pulse of public health.
-
 Thank you for reading through to the end — below are my featured projects.
 
 ## Projects
