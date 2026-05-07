@@ -17,7 +17,7 @@ These projects were carefully chosen to reflect real-world challenges — unders
 Thank you for reading through to the end — below are my featured projects.
 
 ## Projects
-- **Python**: [Geospatial Analysis of Facility Functionality in Nigeria](https://github.com/Ghiyathat/nigeria-health-infrastructure-analysis/tree/main)
+- **Python**: [Geospatial Analysis of Facility Functionality in Nigeria](https://github.com/Ghiyathat/nigeria-health-infrastructure-analysis)
 - **Python**: [Heart Disease Prediction with ML](https://github.com/Ghiyathat/heart-disease-prediction)
 - **SQL**: [Diabetes Epidemiology and Prevalence Analysis](https://github.com/Ghiyathat/diabetes-epidemiology-sql)
 - **Python & PowerQuery**: [Messy Patient Data Cleaning](https://github.com/Ghiyathat/patient-data-cleaning-portfolio)
