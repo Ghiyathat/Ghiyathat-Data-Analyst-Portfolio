@@ -21,4 +21,4 @@ Thank you for reading through to the end — below are my featured projects.
 - **Python & PowerQuery**: [Messy Patient Data Cleaning](https://github.com/Ghiyathat/patient-data-cleaning-portfolio)
 - **PowerBI**: [Healthcare Performance Dashboard](https://github.com/Ghiyathat/Healthcare-Performance-Dashboard)
 - **PowerBI**: [Superstore Sales Dashboard](https://github.com/Ghiyathat/Superstore-Sales-Dashboard)
-- **Python**: [Nigeria Health Infrastructure Analysis](https://github.com/Ghiyathat/nigeria-health-infrastructure-analysis/blob/main/README.md#3-the-analytics-stack)
+- **Python**: [A Geospatial Analysis of Facility Functionality in Nigeria](https://github.com/Ghiyathat/nigeria-health-infrastructure-analysis/blob/main/README.md#3-the-analytics-stack)
