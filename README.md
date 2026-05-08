@@ -24,3 +24,4 @@ Thank you for reading through to the end — below are my featured projects.
 - **PowerBI**: [Healthcare Performance Dashboard](https://github.com/Ghiyathat/Healthcare-Performance-Dashboard)
 - **PowerBI**: [Superstore Sales Dashboard](https://github.com/Ghiyathat/Superstore-Sales-Dashboard)
 - **Python**: [Maternal Health Risk Classification](https://github.com/Ghiyathat/maternal-health-risk-classification)
+- **Python**: [Predicting Annual Healthcare Expenditure using ML](https://github.com/Ghiyathat/medical-cost-predictor-ml)
